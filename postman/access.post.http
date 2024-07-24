@@ -1,0 +1,7 @@
+@url_dev=http://localhost:3000
+
+# get 
+GET {{url_dev}}
+
+# get user 
+GET {{url_dev}}/users
